@@ -4,6 +4,10 @@
 Project showcasing basic capabilities of Selenium with Behave (BDD) framework, using the [Restful Booker Platform](https://automationintesting.online/) as its target. It also implements BehaveX for HTML reports and parallel test execution, along with API requests for creating test data.
 
 
+## [Python Selenium Pytest Demo (2024)](https://github.com/swkc95/Python-Pytest-Allure-Demo)
+Variation of the Python Selenium BDD Demo project, utilizing Pytest for test execution and Allure for test reporting.
+
+
 ## [MrBuggy7 API Testing (2022)](https://github.com/swkc95/MrBuggy7-API-Testing)
 Developed from MrBuggy7 Exploratory Testing, this project is centered around Postman and its Collections feature, focused on testing the API of [Mr Buggy (version 7)](http://mrbuggy.pl/mrbuggy7/) software. Alongside collections of API requests, the project includes mock-up issues with evidence, a TestRail-like Test Cases document, a simple Test Plan, and a final Test Report with basic metrics.
 
