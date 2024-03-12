@@ -1,7 +1,7 @@
 # Published projects
 
 ## [Python Selenium BDD Demo (2024)](https://github.com/swkc95/Python-Selenium-BDD-Demo)
-Project showcasing basic capabilities of Selenium with Behave (BDD) framework, using the [Restful Booker Platform](https://automationintesting.online/) as its target. It also implements BehaveX for HTML reports and parallel test execution, along with API requests for creating test data.
+Project showcasing basic capabilities of Selenium with Behave (BDD) framework, using the [Restful Booker Platform](https://automationintesting.online/) as its target. It also implements BehaveX for HTML reports and parallel test execution, contains basic Selenium Grid configuration and uses API requests for creating test data.
 
 
 ## [Python Selenium Pytest Demo (2024)](https://github.com/swkc95/Python-Pytest-Allure-Demo)
